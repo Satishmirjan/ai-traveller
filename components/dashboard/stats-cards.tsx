@@ -2,7 +2,7 @@
 
 import { Card, CardContent } from "@/components/ui/card"
 import { MapPin, Calendar, Globe, Heart } from "lucide-react"
-
+//adding addons
 export function StatsCards() {
   const stats = [
     {
